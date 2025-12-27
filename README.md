@@ -1,4 +1,4 @@
-# Data Viz Final Project: Data Visualization Shiny App
+# Data Viz Final Project: Black Economic Inequality Shiny App
 
 ## Overview
 This is my final project for PPOL 5202 Data Visualization for Data Science, taught by the brilliant professor, Alex Lundry. This is an interactive data visualization dashboard built with R and Shiny. I previously worked as a workforce policy intern for the Joint Center for Political and Economic Studies, on the Labor Loopholes project. This work inspired me to explore various datasets related to economic and social indicators that affect the Black labor force in the United States, including minimum wage, right-to-work laws, debt, median income, and more. I did publish it here, please take a look here: [jw2293.shinyapps.io/Final_Project](https://jw2293.shinyapps.io/Final_Project/)
