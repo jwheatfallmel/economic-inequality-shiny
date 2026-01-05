@@ -77,5 +77,5 @@ This project is for educational/exploratory purposes. See individual data source
 Joya Wheatfall-Melvin
 
 ## Acknowledgements 
-Special thanks to the Joint Center for Political and Economic Studies for allowing me to expand on theLabor Loopholes project. 
+Special thanks to the Joint Center for Political and Economic Studies for allowing me to expand on the Labor Loopholes project. 
 
